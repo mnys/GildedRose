@@ -1,0 +1,14 @@
+C:\DevSource\GuildedRoseInventorySystem\GuildedRoseInventorySystem.Data\bin\Debug\GuildedRoseInventorySystem.Data.dll.config
+C:\DevSource\GuildedRoseInventorySystem\GuildedRoseInventorySystem.Data\bin\Debug\GuildedRoseInventorySystem.Data.dll
+C:\DevSource\GuildedRoseInventorySystem\GuildedRoseInventorySystem.Data\bin\Debug\GuildedRoseInventorySystem.Data.pdb
+C:\DevSource\GuildedRoseInventorySystem\GuildedRoseInventorySystem.Data\bin\Debug\EntityFramework.dll
+C:\DevSource\GuildedRoseInventorySystem\GuildedRoseInventorySystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\DevSource\GuildedRoseInventorySystem\GuildedRoseInventorySystem.Data\bin\Debug\EntityFramework.xml
+C:\DevSource\GuildedRoseInventorySystem\GuildedRoseInventorySystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\DevSource\GuildedRoseInventorySystem\GuildedRoseInventorySystem.Data\obj\Debug\GuildedRoseInventorySystem.Data.dll
+C:\DevSource\GuildedRoseInventorySystem\GuildedRoseInventorySystem.Data\obj\Debug\GuildedRoseInventorySystem.Data.pdb
+C:\DevSource\GuildedRoseInventorySystem\GuildedRoseInventorySystem.Data\bin\Debug\Autofac.dll
+C:\DevSource\GuildedRoseInventorySystem\GuildedRoseInventorySystem.Data\bin\Debug\Autofac.xml
+C:\DevSource\GuildedRoseInventorySystem\GuildedRoseInventorySystem.Data\obj\Debug\GuildedRoseInventorySystem.Data.csprojResolveAssemblyReference.cache
+C:\DevSource\GuildedRoseInventorySystem\GuildedRoseInventorySystem.Data\obj\Debug\GuildedRoseInventorySystem.Data.Migrations.InitialCreate.resources
+C:\DevSource\GuildedRoseInventorySystem\GuildedRoseInventorySystem.Data\obj\Debug\GuildedRoseInventorySystem.Data.csproj.GenerateResource.Cache

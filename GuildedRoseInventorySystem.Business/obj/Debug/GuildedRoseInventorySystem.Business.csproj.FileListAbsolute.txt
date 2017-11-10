@@ -1,0 +1,5 @@
+C:\DevSource\GuildedRoseInventorySystem\GuildedRoseInventorySystem.Business\bin\Debug\GuildedRoseInventorySystem.Business.dll
+C:\DevSource\GuildedRoseInventorySystem\GuildedRoseInventorySystem.Business\bin\Debug\GuildedRoseInventorySystem.Business.pdb
+C:\DevSource\GuildedRoseInventorySystem\GuildedRoseInventorySystem.Business\obj\Debug\GuildedRoseInventorySystem.Business.csprojResolveAssemblyReference.cache
+C:\DevSource\GuildedRoseInventorySystem\GuildedRoseInventorySystem.Business\obj\Debug\GuildedRoseInventorySystem.Business.dll
+C:\DevSource\GuildedRoseInventorySystem\GuildedRoseInventorySystem.Business\obj\Debug\GuildedRoseInventorySystem.Business.pdb
